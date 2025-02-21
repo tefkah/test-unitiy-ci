@@ -58,7 +58,17 @@ MonoBehaviour:
       - rid: 8841794528990986241
       - rid: 8841794528990986242
     m_RuntimeSettings:
-      m_List: []
+      m_List:
+      - rid: 4989662966651289601
+      - rid: 4989662966651289603
+      - rid: 4989662966651289604
+      - rid: 4989662966651289606
+      - rid: 4989662966651289608
+      - rid: 4989662966651289609
+      - rid: 4989662966651289610
+      - rid: 4989662966651289618
+      - rid: 4989662966651289619
+      - rid: 1739500220957589504
   m_AssetVersion: 8
   m_ObsoleteDefaultVolumeProfile: {fileID: 0}
   m_RenderingLayerNames:
@@ -89,6 +99,8 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
     - rid: 1739500220957589504
       type: {class: RenderGraphUtilsResources, ns: UnityEngine.Rendering.RenderGraphModule.Util,
         asm: Unity.RenderPipelines.Core.Runtime}
@@ -256,10 +268,6 @@ MonoBehaviour:
         m_CameraMotionVector: {fileID: 4800000, guid: c56b7e0d4c7cb484e959caeeedae9bbf,
           type: 3}
         m_StencilDeferredPS: {fileID: 4800000, guid: e9155b26e1bc55942a41e518703fe304,
-          type: 3}
-        m_ClusterDeferred: {fileID: 4800000, guid: 222cce62363a44a380c36bf03b392608,
-          type: 3}
-        m_StencilDitherMaskSeedPS: {fileID: 4800000, guid: 8c3ee818f2efa514c889881ccb2e95a2,
           type: 3}
         m_DBufferClear: {fileID: 4800000, guid: f056d8bd2a1c7e44e9729144b4c70395,
           type: 3}
